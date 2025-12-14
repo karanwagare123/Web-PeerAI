@@ -1,0 +1,9 @@
+<ul>
+  <% products.forEach(p => { %>
+    <li>
+      <a href="/product/<%= p.id %>">
+        <%= p.name %> - ₹<%= p.price %>
+      </a>
+    </li>
+  <% }) %>
+</ul>
