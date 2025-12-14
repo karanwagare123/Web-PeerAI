@@ -67,7 +67,7 @@ Helm charts are provided in the `helm/` directory for deploying the application 
 
 1. Install the Helm chart:
     ```bash
-    helm install webapidemo ./helm
+    helm install ./helm
     ```
 2. Verify the deployment:
     ```bash
