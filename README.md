@@ -1,4 +1,4 @@
-# Web Ecommerce POD
+# Web Ecommerce product list
 
 This repository contains a demo project for showcasing a Web API implementation, specifically focusing on the `WeatherForecast` API.
 
